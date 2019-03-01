@@ -1,2 +1,2 @@
 
-script: bash script.sh
+script: sh script.sh
